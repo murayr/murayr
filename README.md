@@ -2,4 +2,3 @@
 
 * Linux Administrator 🐧
 * Security Researcher 🐞
-* Life Enjoyer 😄
